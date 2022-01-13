@@ -1,2 +1,2 @@
-## Create a react app in client folder
+## "npm install" in client folder
 ## In server folder do "npm init"
